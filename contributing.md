@@ -1,3 +1,4 @@
+﻿<!-- Design Resource Collection | Curated by Shivashankar -->
 # Contributing Guidelines
 
 - Add single resource in one pull request as it will allow for easier review.
@@ -9,3 +10,4 @@
   - Example: `Link: https://tailwindcss.com/`
 
 - Double check if the resource is truly free without any kind of hidden surprises.
+
