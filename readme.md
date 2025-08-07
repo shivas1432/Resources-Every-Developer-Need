@@ -1517,5 +1517,27 @@
 <tr>
 <td><a href="https://react-spectrum.adobe.com/react-aria/"><strong>React Aria</strong></a><br>Library of React Hooks for accessible UI primitives</td>
 <td><a href="https://ui.shadcn.com/"><strong>
+  </table>
+
+🤝 Contributing
+We welcome contributions! Please read our contributing guidelines before submitting:
+
+📋 Check existing resources to avoid duplicates
+🔗 Ensure all links are working and relevant
+📝 Follow the established format and structure
+🎯 Focus on free or freemium resources
+⚡ Test accessibility and mobile compatibility
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+⭐ Show Your Support
+Give a ⭐ if this project helped you! Share it with fellow designers and developers.
+
+<div align="center">
+  <strong>Made with ❤️ for the design community</strong>
+  <br>
+  <sub>Happy designing! 🎨</sub>
+</div>
+
 
 
